@@ -3,5 +3,5 @@ un projet super
 c'est parti
 
 branche Bernard
-adding a first featur for Bernard
+adding a first feature for Bernard
 Bernard travaille
